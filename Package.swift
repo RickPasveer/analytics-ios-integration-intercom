@@ -28,7 +28,7 @@ let package = Package(
                 "Segment",
                 "Intercom"
             ],
-            path: "Segment-Intercom/**",
+            path: "Segment-Intercom/"
             publicHeadersPath: ""
         )
     ]
